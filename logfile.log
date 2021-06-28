@@ -1,0 +1,35 @@
+2021-06-27 19:19:35,871 :INFO : test_form_submission : Entering name, email, password
+2021-06-27 19:19:35,956 :INFO : test_form_submission : Select checkbox
+2021-06-27 19:19:36,174 :INFO : test_form_submission : Selecting gender from dropdown
+2021-06-27 19:19:36,487 :INFO : test_form_submission : Selecting employment status radio button
+2021-06-27 19:19:36,702 :INFO : test_form_submission : Entering dob
+2021-06-27 19:19:38,722 :INFO : test_form_submission : Grabbed screenshot after entering dob
+2021-06-27 19:19:38,835 :INFO : test_form_submission : Form submitted
+2021-06-27 19:19:39,061 :INFO : test_form_submission : Validating confirmation message
+2021-06-27 19:19:41,517 :INFO : test_form_submission : Entering name, email, password
+2021-06-27 19:19:41,517 :INFO : test_form_submission : Entering name, email, password
+2021-06-27 19:19:41,596 :INFO : test_form_submission : Select checkbox
+2021-06-27 19:19:41,596 :INFO : test_form_submission : Select checkbox
+2021-06-27 19:19:41,816 :INFO : test_form_submission : Selecting gender from dropdown
+2021-06-27 19:19:41,816 :INFO : test_form_submission : Selecting gender from dropdown
+2021-06-27 19:19:42,322 :INFO : test_form_submission : Selecting employment status radio button
+2021-06-27 19:19:42,322 :INFO : test_form_submission : Selecting employment status radio button
+2021-06-27 19:19:42,546 :INFO : test_form_submission : Entering dob
+2021-06-27 19:19:42,546 :INFO : test_form_submission : Entering dob
+2021-06-27 19:19:44,582 :INFO : test_form_submission : Grabbed screenshot after entering dob
+2021-06-27 19:19:44,582 :INFO : test_form_submission : Grabbed screenshot after entering dob
+2021-06-27 19:19:44,690 :INFO : test_form_submission : Form submitted
+2021-06-27 19:19:44,690 :INFO : test_form_submission : Form submitted
+2021-06-27 19:19:44,910 :INFO : test_form_submission : Validating confirmation message
+2021-06-27 19:19:44,910 :INFO : test_form_submission : Validating confirmation message
+2021-06-27 19:20:01,075 :INFO : test_e2e : Navigating shop page
+2021-06-27 19:20:03,223 :INFO : test_e2e : Add blackberry to cart
+2021-06-27 19:20:03,227 :INFO : test_e2e : [<selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1e23895c-eebb-4f69-acd8-159fdb27e2ba", element="d5e2690d-6f7b-4b49-87c7-abbc1258b907")>, <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1e23895c-eebb-4f69-acd8-159fdb27e2ba", element="731a6534-12be-4c57-b6c8-b6e6dfd288c8")>, <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1e23895c-eebb-4f69-acd8-159fdb27e2ba", element="00172ed9-aa8e-4725-a508-f9d12394289b")>, <selenium.webdriver.firefox.webelement.FirefoxWebElement (session="1e23895c-eebb-4f69-acd8-159fdb27e2ba", element="35c529f1-228f-4a44-a094-3e5e435952fd")>]
+2021-06-27 19:20:03,260 :INFO : test_e2e : Blackberry
+2021-06-27 19:20:03,489 :INFO : test_e2e : Navigate to checkout page
+2021-06-27 19:20:03,721 :INFO : test_e2e : Click on checkout button
+2021-06-27 19:20:03,966 :INFO : test_e2e : Selecting delivery country
+2021-06-27 19:20:09,244 :INFO : test_e2e : selecting terms and conditions checkbox
+2021-06-27 19:20:11,470 :INFO : test_e2e : Completing purchase
+2021-06-27 19:20:11,735 :INFO : test_e2e : Validating successful checkout
+2021-06-27 19:20:11,743 :INFO : test_e2e : Grab success screenshot
